@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "GvJXSAndEz4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.UI\\MedicalRemember.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1652.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1652.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1652.0 depende de Microsoft.SqlServer.Types (>= 14.0.0), pero no se encontró Microsoft.SqlServer.Types 14.0.0. Microsoft.SqlServer.Types 14.0.314.76 se resolvió en su lugar.",
+      "projectPath": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.UI\\MedicalRemember.UI.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.UI\\MedicalRemember.UI.csproj",
+      "libraryId": "Microsoft.SqlServer.Types",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-arm64",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}

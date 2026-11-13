@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A3000000-0000-0000-0000-000000000003}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>MedicalRemember.Business</RootNamespace>
+    <AssemblyName>MedicalRemember.Negocio</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SistemaServicio.cs" />
+    <Compile Include="ResultadoOperacion.cs" />
+    <Compile Include="Seguridad.cs" />
+    <Compile Include="PacienteServicio.cs" />
+    <Compile Include="MedicamentoServicio.cs" />
+    <Compile Include="TratamientoServicio.cs" />
+    <Compile Include="HorarioServicio.cs" />
+    <Compile Include="HistorialServicio.cs" />
+    <Compile Include="UsuarioServicio.cs" />
+    <Compile Include="PythonExportServicio.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- Negocio SOLO puede ver Datos y Entidades (nunca la UI) -->
+    <ProjectReference Include="..\MedicalRemember.Datos\MedicalRemember.Datos.csproj">
+      <Project>{A2000000-0000-0000-0000-000000000002}</Project>
+      <Name>MedicalRemember.Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MedicalRemember.Entidades\MedicalRemember.Entidades.csproj">
+      <Project>{A1000000-0000-0000-0000-000000000001}</Project>
+      <Name>MedicalRemember.Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\admin\Downloads\MEDICALREMEMBER_16.10\MedicalRemember_Multicapa\MedicalRemember_Multicapa\MedicalRemember.Entidades\bin\Debug\MedicalRemember.Entidades.dll
+C:\Users\admin\Downloads\MEDICALREMEMBER_16.10\MedicalRemember_Multicapa\MedicalRemember_Multicapa\MedicalRemember.Entidades\bin\Debug\MedicalRemember.Entidades.pdb
+C:\Users\admin\Downloads\MEDICALREMEMBER_16.10\MedicalRemember_Multicapa\MedicalRemember_Multicapa\MedicalRemember.Entidades\obj\Debug\MedicalRemember.Entidades.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\MEDICALREMEMBER_16.10\MedicalRemember_Multicapa\MedicalRemember_Multicapa\MedicalRemember.Entidades\obj\Debug\MedicalRemember.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\MEDICALREMEMBER_16.10\MedicalRemember_Multicapa\MedicalRemember_Multicapa\MedicalRemember.Entidades\obj\Debug\MedicalRemember.Entidades.dll
+C:\Users\admin\Downloads\MEDICALREMEMBER_16.10\MedicalRemember_Multicapa\MedicalRemember_Multicapa\MedicalRemember.Entidades\obj\Debug\MedicalRemember.Entidades.pdb
+C:\Users\admin\Downloads\SISTEMA_MEDICALREMEMBER_COMPLETO\MedicalRemember_Multicapa.05.11.26\MedicalRemember_Multicapa\MedicalRemember.Entidades\bin\Debug\MedicalRemember.Entidades.dll
+C:\Users\admin\Downloads\SISTEMA_MEDICALREMEMBER_COMPLETO\MedicalRemember_Multicapa.05.11.26\MedicalRemember_Multicapa\MedicalRemember.Entidades\bin\Debug\MedicalRemember.Entidades.pdb
+C:\Users\admin\Downloads\SISTEMA_MEDICALREMEMBER_COMPLETO\MedicalRemember_Multicapa.05.11.26\MedicalRemember_Multicapa\MedicalRemember.Entidades\obj\Debug\MedicalRemember.Entidades.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\SISTEMA_MEDICALREMEMBER_COMPLETO\MedicalRemember_Multicapa.05.11.26\MedicalRemember_Multicapa\MedicalRemember.Entidades\obj\Debug\MedicalRemember.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\SISTEMA_MEDICALREMEMBER_COMPLETO\MedicalRemember_Multicapa.05.11.26\MedicalRemember_Multicapa\MedicalRemember.Entidades\obj\Debug\MedicalRemember.Entidades.dll
+C:\Users\admin\Downloads\SISTEMA_MEDICALREMEMBER_COMPLETO\MedicalRemember_Multicapa.05.11.26\MedicalRemember_Multicapa\MedicalRemember.Entidades\obj\Debug\MedicalRemember.Entidades.pdb

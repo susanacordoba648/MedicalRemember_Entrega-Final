@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C00548-80AF-BB0B-38D6-48F8577ADF37}|MedicalRemember.Api\\MedicalRemember.Api.csproj|c:\\users\\admin\\downloads\\sistema_medicalremember_completo\\medicalremember_multicapa.05.11.26\\medicalremember_multicapa\\medicalremember.api\\medicalremember.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7C00548-80AF-BB0B-38D6-48F8577ADF37}|MedicalRemember.Api\\MedicalRemember.Api.csproj|solutionrelative:medicalremember.api\\medicalremember.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3000000-0000-0000-0000-000000000003}|MedicalRemember.Negocio\\MedicalRemember.Negocio.csproj|C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\medicalremember.negocio\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3000000-0000-0000-0000-000000000003}|MedicalRemember.Negocio\\MedicalRemember.Negocio.csproj|solutionrelative:medicalremember.negocio\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3000000-0000-0000-0000-000000000003}|MedicalRemember.Negocio\\MedicalRemember.Negocio.csproj|C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\medicalremember.negocio\\seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3000000-0000-0000-0000-000000000003}|MedicalRemember.Negocio\\MedicalRemember.Negocio.csproj|solutionrelative:medicalremember.negocio\\seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3000000-0000-0000-0000-000000000003}|MedicalRemember.Negocio\\MedicalRemember.Negocio.csproj|C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\medicalremember.negocio\\sistemaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3000000-0000-0000-0000-000000000003}|MedicalRemember.Negocio\\MedicalRemember.Negocio.csproj|solutionrelative:medicalremember.negocio\\sistemaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4000000-0000-0000-0000-000000000004}|MedicalRemember.UI\\MedicalRemember.UI.csproj|C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\medicalremember.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4000000-0000-0000-0000-000000000004}|MedicalRemember.UI\\MedicalRemember.UI.csproj|solutionrelative:medicalremember.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2000000-0000-0000-0000-000000000002}|MedicalRemember.Datos\\MedicalRemember.Datos.csproj|C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\medicalremember.datos\\dashboarddatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2000000-0000-0000-0000-000000000002}|MedicalRemember.Datos\\MedicalRemember.Datos.csproj|solutionrelative:medicalremember.datos\\dashboarddatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2000000-0000-0000-0000-000000000002}|MedicalRemember.Datos\\MedicalRemember.Datos.csproj|C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\medicalremember.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2000000-0000-0000-0000-000000000002}|MedicalRemember.Datos\\MedicalRemember.Datos.csproj|solutionrelative:medicalremember.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicalRemember.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.Api\\MedicalRemember.Api.csproj",
+              "RelativeDocumentMoniker": "MedicalRemember.Api\\MedicalRemember.Api.csproj",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.Api\\MedicalRemember.Api.csproj",
+              "RelativeToolTip": "MedicalRemember.Api\\MedicalRemember.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T02:26:42.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioServicio.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.Negocio\\UsuarioServicio.cs",
+              "RelativeDocumentMoniker": "MedicalRemember.Negocio\\UsuarioServicio.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.Negocio\\UsuarioServicio.cs",
+              "RelativeToolTip": "MedicalRemember.Negocio\\UsuarioServicio.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T14:30:16.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seguridad.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.Negocio\\Seguridad.cs",
+              "RelativeDocumentMoniker": "MedicalRemember.Negocio\\Seguridad.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.Negocio\\Seguridad.cs",
+              "RelativeToolTip": "MedicalRemember.Negocio\\Seguridad.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T14:22:47.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.Negocio\\SistemaServicio.cs",
+              "RelativeDocumentMoniker": "MedicalRemember.Negocio\\SistemaServicio.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.Negocio\\SistemaServicio.cs",
+              "RelativeToolTip": "MedicalRemember.Negocio\\SistemaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T14:22:42.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.UI\\Program.cs",
+              "RelativeDocumentMoniker": "MedicalRemember.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.UI\\Program.cs",
+              "RelativeToolTip": "MedicalRemember.UI\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T14:22:27.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardDatos.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.Datos\\DashboardDatos.cs",
+              "RelativeDocumentMoniker": "MedicalRemember.Datos\\DashboardDatos.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.Datos\\DashboardDatos.cs",
+              "RelativeToolTip": "MedicalRemember.Datos\\DashboardDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T14:22:20.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "MedicalRemember.Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\SISTEMA_MEDICALREMEMBER_COMPLETO\\MedicalRemember_Multicapa.05.11.26\\MedicalRemember_Multicapa\\MedicalRemember.Datos\\Conexion.cs",
+              "RelativeToolTip": "MedicalRemember.Datos\\Conexion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T14:22:10.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
